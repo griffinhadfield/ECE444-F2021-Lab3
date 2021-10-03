@@ -1,5 +1,21 @@
 # Griffin Hadfield
 This repos is a clone of https://github.com/nelaturuk/education_pathways.
+
+## Activity 1: Docker Installation
+<img width="683" alt="Screen Shot 2021-10-03 at 10 45 19 AM" src="https://user-images.githubusercontent.com/38739044/135759668-c3c0f3be-a21a-4ef0-aace-9f2166dd5096.png">
+
+## Activity 2: Cloning EP Repo 
+<img width="1277" alt="Screen Shot 2021-10-03 at 10 51 32 AM" src="https://user-images.githubusercontent.com/38739044/135759752-052b59a4-4f49-4809-b5d4-da2317ad678b.png">
+
+## Activity 3: Building Docker Image 
+<img width="1066" alt="Screen Shot 2021-10-03 at 10 56 57 AM" src="https://user-images.githubusercontent.com/38739044/135759754-04ff0149-6518-4d1a-9258-4f92a58ff700.png">
+
+## Activity 4: Running Docker Image
+<img width="1087" alt="Screen Shot 2021-10-03 at 10 57 23 AM" src="https://user-images.githubusercontent.com/38739044/135759771-22ae56d7-cd33-4209-92ab-d519225f1455.png">
+
+## Activity 5: Feedback on Education Pathways
+
+
 # CARTE Education Pathways
 
 ## Description
