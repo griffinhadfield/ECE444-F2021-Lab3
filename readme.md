@@ -15,6 +15,10 @@ This repos is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Activity 5: Feedback on Education Pathways
 
+One functional requirement that I would like to see improved in the application is the ability to save or keep track of courses. When using the tool to search for different courses, it would be useful to be able to shortlist courses that I may be interested in and return to them at a later time. If I were to use this tool, I could see myself needing to manually record the courses I want to take, so a feature to handle this for me would be a useful inclusion.
+
+One non-functional requirement that I think could be improved is the formatting and readbility of the text and information that is displayed. Currently, all of the text is black and displayed on a plain white background with no visual elements to seperate them. I found myself confused as to what text pertains to which column or element on the page. It would be useful to add different lines or multiple colours of background shading to add visual seperation and distinction in the content.
+
 
 # CARTE Education Pathways
 
