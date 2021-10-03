@@ -11,7 +11,7 @@ This repos is a clone of https://github.com/nelaturuk/education_pathways.
 <img width="1066" alt="Screen Shot 2021-10-03 at 10 56 57 AM" src="https://user-images.githubusercontent.com/38739044/135759754-04ff0149-6518-4d1a-9258-4f92a58ff700.png">
 
 ## Activity 4: Running Docker Image
-<img width="1087" alt="Screen Shot 2021-10-03 at 10 57 23 AM" src="https://user-images.githubusercontent.com/38739044/135759771-22ae56d7-cd33-4209-92ab-d519225f1455.png">
+<img width="1088" alt="Screen Shot 2021-10-03 at 11 04 22 AM" src="https://user-images.githubusercontent.com/38739044/135759907-c47e6e37-8168-4524-ade3-4b45d68d89b4.png">
 
 ## Activity 5: Feedback on Education Pathways
 
